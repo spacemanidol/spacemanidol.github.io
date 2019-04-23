@@ -1,3 +1,5 @@
 name: Daniel Campos
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+# Google Analytics
+google_analytics: UA-137871770-1
