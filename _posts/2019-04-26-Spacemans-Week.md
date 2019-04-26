@@ -4,7 +4,9 @@ Ever wanted to stay overnight in a huge potato in Idaho Farm land? [Big Idaho Po
 Want to buy your loved one a sick vase but not sure what matches their style [Love Handles Ceramic Vase](https://www.matchesfashion.com/us/products/Anissa-Kermiche-Love-Handles-ceramic-vase-1297178)
 You know when you go to your favorite brewery and freakout because choosing from the 18 hippest IPA is near imposible? Turns out someone studied when the amount of choices make us break [Choice overload reduces neural signatures of choice set value in dorsal striatum and anterior cingulate cortex](https://www.nature.com/articles/s41562-018-0440-2)
 [Octopus Rum](https://www.behance.net/gallery/78588699/Octopus-Rum) A creature that is near and dear to my heart and an awesome prodct packagin based on it
-
+[What was the best advice Paul Graham ever gave you at Y Combinator?](https://www.quora.com/What-was-the-best-advice-Paul-Graham-ever-gave-you-at-Y-Combinator/answer/Andrew-Roberts-4) 
+[Musenet](https://openai.com/blog/musenet/)
+[Welcome to Shanghai, the capital of the future](https://www.theglobeandmail.com/opinion/article-welcome-to-shanghai-the-capital-of-the-future/)
 
 ## Shower Thoughts([From Reddit](https://www.reddit.com/r/showerthoughts))
 1. If stoners hung out at old age homes, the elderly would get someone to talk to and stoners would get someone mature to have deep philosophical discussions with.
