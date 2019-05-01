@@ -15,3 +15,4 @@ You know when you go to your favorite brewery and freakout because choosing from
 2. We somehow managed to discover Uranus before Antarctica.
 3. Metaphorically and literally, if you burn too many bridges people won't trust you to build new ones
 4. For every video game there is a guy who made grunting sounds in a recording studio for a day.
+5. Honestly the least realistic part about the Magic School Bus is that a public school has a class size of 8.
