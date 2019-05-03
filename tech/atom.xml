@@ -1,0 +1,26 @@
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Daniel Campos' Blog</title>
+ <link href="http://dfcf93.github.io/tech/atom.xml" rel="self"/>
+ <link href="http://dfcf93.github.io/tech"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://dfcf93.github.io/tech</id>
+ <author>
+   <name>Daniel Campos</name>
+   <email>spacemanidol@gmail.com</email>
+ </author>
+ {% for post in site.techpost %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://dfcf93.github.io{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://dfcf93.github.io/{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>
