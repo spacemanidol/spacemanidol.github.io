@@ -1,4 +1,4 @@
-# Random Walk 05-12-2019
+# Random Walk 05-19-2019
 ### Intro
 Hey,
 
@@ -8,12 +8,13 @@ If you want to get an email when I write something new [Sign up here]()
 
 ### Main 
 1. [Best Rap Chains](https://www.highsnobiety.com/p/best-rappers-chains/)
-2. [Best Canned Wines of 2019](https://vinepair.com/buy-this-booze/10-best-canned-wines-2019/)
+2. [The NBA's Secret Wine Society](http://www.espn.com/espn/feature/story/_/id/22358028/the-nba-obsession-wine)[Best Canned Wines of 2019](https://vinepair.com/buy-this-booze/10-best-canned-wines-2019/)
 3. [THE BLACKTRACK BT-03](https://www.blacktrackmotors.com/bt-03) is a Harley I would be proud to own.
 4. [Brian "Dutchie" Delaney For Grand Collection](https://www.youtube.com/watch?v=iXHnVCIgu1A)
 5. [How Does Fasting Affect The Brain](http://www.brainfacts.org/thinking-sensing-and-behaving/diet-and-lifestyle/2018/how-does-fasting-affect-the-brain-071318)
 6. [Brains Speed Up Perception by Guessing What’s Next](https://www.quantamagazine.org/brains-speed-up-perception-by-guessing-whats-next-20190502/)
 7. [Math Teachers Should Be More Like Football Coaches](https://www.nytimes.com/2019/05/11/opinion/sunday/math-teaching-football.html)
+8. [Long-term coffee consumption, caffeine metabolism genetics, and risk of cardiovascular disease: a prospective analysis of up to 347,077 individuals and 8368 cases](https://academic.oup.com/ajcn/article-abstract/109/3/509/5369955)
 ### Will Someone Build This
 1. For all those Game of Thrones fans [Turns out winterfell has a starbucks](https://twitter.com/IWriteAllDay_/status/1125299683004276738)
 
@@ -25,3 +26,4 @@ Things become interesting where there is contrasting, unusual information closel
 #### Next Week's Prompt
 
 #### Science Papers I Read
+[Hyperdoc2vec:Distributed Representations of Hypertext Documents](https://jialonghan.com/wp-content/uploads/2018/04/hyperdoc2vec.pdf)
