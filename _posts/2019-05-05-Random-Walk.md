@@ -32,12 +32,9 @@ Things become interesting where there is contrasting, unusual information closel
 
 #### Science Papers I Read
 [Skip-Thought Vectors](https://arxiv.org/abs/1506.06726)
+
 [Supervised Learning of Universal Sentence Representation from Natural Language Inference Data](https://arxiv.org/abs/1705.02364)
+
 [learning general purpose distributed sentence representations via large scale multitask learning](https://arxiv.org/abs/1804.00079)
-[coqa a conversational question answering challenge](http://arxiv.org/abs/1808.07042)
-[HotPotQA: A Dataset for Diverse, Explainable Multi-Hop Question Answering](https://nlp.stanford.edu/pubs/yang2018hotpotqa.pdf)
-[similarity of neural network representations revisited](https://arxiv.org/abs/1905.00414)
-[curriculum learning in deep neural networks for financial forecasting](https://arxiv.org/abs/1904.12887?context=stat)
-[Survey of Dropout Methods for Deep Neural Networks](https://arxiv.org/abs/1904.13310v1)
-[On The Use of Arxiv as a Dataset](https://arxiv.org/abs/1905.00075v1)
+
 [Are the Long-Short Term Memory and Convolution neural networks really based on biological systems?](https://www.sciencedirect.com/science/article/pii/S2405959518300249)
