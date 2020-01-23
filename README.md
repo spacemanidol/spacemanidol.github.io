@@ -1,3 +1,3 @@
-dfcf93.github.io
+https://spacemanidol.github.io/
 =====================
-My personal stuff. 
+Get hyped
