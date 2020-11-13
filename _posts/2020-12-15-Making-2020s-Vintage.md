@@ -1,0 +1,9 @@
+### Intro
+Hey,
+
+As I get older I find myself taking more time to think which has lead me to the conclusion I should write more. I have always loved reading and talking but since I have never been a particularly good writter I have avoided it like the plaugue. 
+Its mid may and the world is neck deep in coronavirus fear. 
+
+
+Till next week,
+Daniel
