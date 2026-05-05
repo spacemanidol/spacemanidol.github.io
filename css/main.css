@@ -1,20 +1,21 @@
 body { margin: 60px auto; width: 70%; }
 
-a { text-decoration: none; color: #999; }
-a:hover { text-decoration: underline; }
+a { text-decoration: none; color: #0B7A71; }
+a:hover { text-decoration: underline; color: #095c56; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+ul li { margin-bottom: 0.3em; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-h1 { font-size: 3em;  }
-h2 { font-size: 2.7em; }
-h3 { font-size: 2.3em; }
-h4 { font-size: 1.9em; }
+h1 { font-size: 3em; }
+h2 { font-size: 2.4em; margin-top: 1.2em; }
+h3 { font-size: 1.8em; margin-top: 1em; color: #444; }
+h4 { font-size: 1.5em; margin-top: 0.8em; color: #555; }
 
 nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
-footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
+footer { border-top: 1px solid #d5d5d5; font-size: .8em; margin-top: 40px; padding-top: 10px; }
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
@@ -24,6 +25,11 @@ ul.posts li { list-style: none; }
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
 .cv h2 { font-size: 2em; }
+.cv h3 { font-size: 1.6em; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
+.cv ul { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+
+/* About */
+.about h2 { font-size: 2em; margin-top: 1.5em; }
